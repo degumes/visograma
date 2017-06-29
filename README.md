@@ -1,0 +1,2 @@
+# visograma
+Grafia de sinais
